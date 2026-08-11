@@ -1,0 +1,15 @@
+{
+	"name": "linkly",
+	"displayName": "Linkly",
+	"version": "1.0.0",
+	"description": "Create branded short links, track click analytics, and keep the links in your docs healthy — powered by the official Linkly MCP connector.",
+	"author": {
+		"name": "Linkly",
+		"email": "support@linklyhq.com",
+		"url": "https://linklyhq.com"
+	},
+	"homepage": "https://linklyhq.com/support/mcp-server",
+	"repository": "https://github.com/Linkly-HQ/linkly-claude-plugin",
+	"license": "MIT",
+	"keywords": ["links", "url-shortener", "analytics", "marketing", "utm", "qr"]
+}
