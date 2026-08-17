@@ -1,0 +1,10 @@
+{
+	"name": "linkly",
+	"version": "1.0.0",
+	"description": "Create branded short links, track click analytics, and keep the links in your docs healthy — powered by the official Linkly MCP connector (hosted, OAuth, no API keys).",
+	"mcpServers": {
+		"linkly": {
+			"httpUrl": "https://mcp.linklyhq.com"
+		}
+	}
+}
