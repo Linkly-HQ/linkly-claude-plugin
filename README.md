@@ -2,7 +2,9 @@
 
 Official [Linkly](https://linklyhq.com) plugin for Claude Code and Cowork.
 Create branded short links, track click analytics, and keep the links in
-your documents healthy — without leaving Claude.
+your documents healthy — without leaving Claude. New to Linkly? Start with
+the [URL shortener](https://linklyhq.com) (free plan available) and the
+[Claude setup guide](https://linklyhq.com/support/claude-desktop-integration).
 
 The plugin bundles:
 
